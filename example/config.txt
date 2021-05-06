@@ -1,0 +1,2 @@
+Prefix plugins/RemoveTaxa/example
+Plugin RemoveTaxa inputfile remove.halomonas.txt outputfile taxa.noHalo.csv
