@@ -1,2 +1,2 @@
 # RemoveTaxon
-Remove a taxon that matches some pattern
+Remove taxa that matches some pattern
